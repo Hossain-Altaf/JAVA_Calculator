@@ -1,6 +1,6 @@
 package Calculator;
 /*
-* this is a simple calculator app created by only using java swing
+* this is a simple calculator app created by using java swing
 *
 * Created by:
 * Altaf Hossain-2021831002
